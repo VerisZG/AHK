@@ -37,7 +37,7 @@ verb 3
 ca_content=
 (
 -----BEGIN CERTIFICATE-----
-xxxxx cert content here
+wkej zawartosc certyfikatu ca.crt serwera tutaj
 -----END CERTIFICATE-----
 
 )
@@ -85,7 +85,7 @@ ZGScan(ext)
 }
 	
 ; ------------------------------------------------------------------------------------------------------------
-; PROGRAM G£ÓWNY
+; PROGRAM GÂ£Ã“WNY
 	
 ZGScan("crt")
 ZGScan("key")
